@@ -1,0 +1,20 @@
+#formRegistro
+{  
+	position:absolute;
+	left: auto;; right: auto;; top: auto;;
+}
+#logIn{
+    position:absolute;
+    left: auto;; right: auto;; top: auto;;
+}
+
+#btn {
+   
+    left: auto;; right: auto;; top: auto;;
+}
+
+#staticBackdrop{
+
+    opacity: 1; transform: scale(1);
+    
+}
